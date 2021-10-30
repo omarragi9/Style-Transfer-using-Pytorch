@@ -12,7 +12,7 @@ This paper uses VGG19 model to create a new target image which should contain de
 
 Here is the content & style of the first example
 
-<img src = "Images/Content1.jpg" width="400" height="400"> ![Style1](Images/Style1.jpg?raw=true "Style images 1")
+<img src = "Images/Content1.jpg" width="500" height="400"> <img src = "Images/Style1.jpg" width="500" height="400")>
 
 And the target of applying the model over the two images
 
@@ -24,7 +24,7 @@ Achieving a loss of 305766.5625 which is better than the referenced example here
 
 Here is the content & style of the second example
 
-![Content2](Images/Content2.jpg?raw=true "Content images 3") ![Style2](Images/Style2.jpg?raw=true "Style images 2")
+<img src = "Images/Content2.jpg" width="500" height="400"> <img src = "Images/Style2.jpg" width="500" height="400")>
 
 And the target of applying the model over the two images
 
@@ -36,7 +36,7 @@ Achieving a loss of 289863.03125 which is better than the referenced example her
 
 Here is the content & style of the third example
 
-![Content3](Images/Content3.jpg?raw=true "Content images 3") ![Style3](Images/Style3.jpg?raw=true "Style images 3")
+<img src = "Images/Content3.jpg" width="500" height="400"> <img src = "Images/Style3.jpg" width="500" height="400")>
 
 And the target of applying the model over the two images
 
