@@ -4,9 +4,9 @@ In this notebook, i'm trying to recreate a style transfer method that is outline
 
 This paper uses VGG19 model to create a new target image which should contain desired content and style components:
 
-*objects and their arrangement are similar to that of the content image
+- objects and their arrangement are similar to that of the content image
 
-*style, colors, and textures are similar to that of the style image
+- style, colors, and textures are similar to that of the style image
 
 ## Test the model
 
@@ -59,8 +59,8 @@ Achieving a loss of 13028.4619140625 which is better than the referenced example
 
 The code benefits from outstanding prior work and their implementations including:
 
--style-transfer GitHub repository   ([Code!](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/style-transfer/Style_Transfer_Solution.ipynb))
+- style-transfer GitHub repository   ([Code!](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/style-transfer/Style_Transfer_Solution.ipynb))
 
--Artistic Neural Style Transfer with PyTorch ([Link!](https://www.pluralsight.com/guides/artistic-neural-style-transfer-with-pytorch))
+- Artistic Neural Style Transfer with PyTorch ([Link!](https://www.pluralsight.com/guides/artistic-neural-style-transfer-with-pytorch))
 
--NEURAL TRANSFER USING PYTORCH  ([Link!](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html))
+- NEURAL TRANSFER USING PYTORCH  ([Link!](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html))
