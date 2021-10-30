@@ -12,7 +12,8 @@ This paper uses VGG19 model to create a new target image which should contain de
 
 Here is the content & style of the first example
 
-<img src = "Images/Content1.jpg" width="500" height="400"> <img src = "Images/Style1.jpg" width="500" height="400")>
+<img src = "Images/Content1.jpg" width="500" height="400">
+<img src = "Images/Style1.jpg" width="500" height="400")>
 
 And the target of applying the model over the two images
 
