@@ -12,7 +12,7 @@ This paper uses VGG19 model to create a new target image which should contain de
 
 Here is the content & style of the first example
 
-![Content1](Images/Content1.jpg?raw=true "Content images 1") ![Style1](Images/Style1.jpg?raw=true "Style images 1")
+![Content1](Images/Content1.jpg?raw=true "Content images 1"){:height="400px" width="400px"} ![Style1](Images/Style1.jpg?raw=true "Style images 1") {:height="400px" width="400px"}
 
 And the target of applying the model over the two images
 
