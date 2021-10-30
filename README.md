@@ -16,7 +16,7 @@ Here is the content & style of the first example
 
 And the target of applying the model over the two images
 
-![Target1](Images/Target1.png?raw=true "Target images 1")
+![Target1](Images/Target1.PNG?raw=true "Target images 1")
 
 Achieving a loss of 305766.5625 which is better than the referenced example here 
 
@@ -28,7 +28,7 @@ Here is the content & style of the second example
 
 And the target of applying the model over the two images
 
-![Target2](Images/Target2.png?raw=true "Target images 2")
+![Target2](Images/Target2.PNG?raw=true "Target images 2")
 
 Achieving a loss of 289863.03125 which is better than the referenced example here 
 
@@ -40,7 +40,7 @@ Here is the content & style of the third example
 
 And the target of applying the model over the two images
 
-![Target3](Images/Target3.png?raw=true "Target images 3")
+![Target3](Images/Target3.PNG?raw=true "Target images 3")
 
 Achieving a loss of 13028.4619140625 which is better than the referenced example here 
 
