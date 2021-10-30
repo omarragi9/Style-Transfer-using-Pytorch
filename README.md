@@ -21,9 +21,7 @@ And the target of applying the model over the two images
 
 ![Target1](Images/Target1.PNG?raw=true "Target images 1")
 
-Achieving a loss of 305766.5625 which is better than the referenced example here 
-
-[CV Foundation](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
+Achieving a loss of 305766.5625 which is better than the referenced example here [CV Foundation](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf)
 
 Here is the content & style of the second example
 
@@ -36,9 +34,7 @@ And the target of applying the model over the two images
 
 ![Target2](Images/Target2.PNG?raw=true "Target images 2")
 
-Achieving a loss of 289863.03125 which is better than the referenced example here 
-
-[GitHub](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/style-transfer/Style_Transfer_Solution.ipynb)
+Achieving a loss of 289863.03125 which is better than the referenced example here [GitHub](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/style-transfer/Style_Transfer_Solution.ipynb)
 
 Here is the content & style of the third example
 
@@ -51,9 +47,7 @@ And the target of applying the model over the two images
 
 ![Target3](Images/Target3.PNG?raw=true "Target images 3")
 
-Achieving a loss of 13028.4619140625 which is better than the referenced example here 
-
-[Pytorch](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html)
+Achieving a loss of 13028.4619140625 which is better than the referenced example here [Pytorch](https://pytorch.org/tutorials/advanced/neural_style_tutorial.html)
 
 ## Acknowledgement
 
